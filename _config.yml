@@ -2,7 +2,7 @@
 page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id                                : 1585355397                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                :  6443407839                               # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 ios_app_country                           : us                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
@@ -13,7 +13,7 @@ presskit_download_link                    :                                     
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Mercury helps you efficiently learn new words and boosts your retention by up to 50% 
+app_description                           : Explore Solar System in AR
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -35,25 +35,13 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Search 
-    description                           : Look up words in dictionary which contains 130k+ definitions
+  - title                                 : Feed your curiosity 
+    description                           : Explore images and information about planets
     fontawesome_icon_name                 : search
     
-  - title                                 : Learn smarter 
-    description                           : Use our implementation of Leitner system to significantly boost your learning and retention <b>by up to 50%</b>
+  - title                                 : View in AR
+    description                           : View planets in Augumented Reality for the best experience
     fontawesome_icon_name                 : user-graduate
-
-  - title                                 : Perform better at exams
-    description                           : Research shows students, who learn with spaced repetition algorithm, to outperform other students <b>by up to 16%</b> at exams
-    fontawesome_icon_name                 : graduation-cap
-
-  - title                                 : Keep knowledge sorted
-    description                           : Create collections of words and learn them associatively
-    fontawesome_icon_name                 : database
-
-  - title                                 : Enjoy learning
-    description                           : Learn words with your friends by accessing the list of public collections
-    fontawesome_icon_name                 : users
 
 
 # Theme Settings
