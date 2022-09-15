@@ -36,12 +36,16 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Feed your curiosity 
-    description                           : Explore images and information about planets
+    description                           : Read information about planets in Solar System
     fontawesome_icon_name                 : search
     
-  - title                                 : View in AR
-    description                           : View planets in Augumented Reality for the best experience
-    fontawesome_icon_name                 : user-graduate
+  - title                                 : Explore in AR
+    description                           : View planets in Augmented Reality for the best experience 
+    fontawesome_icon_name                 : video
+
+  - title                                 : Astonishing images
+    description                           : Breathtaking images of planets near their description
+    fontawesome_icon_name                 : images
 
 
 # Theme Settings
